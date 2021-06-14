@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:title'
       value: Coder Ali Blogs
     - name: 'twitter:description'
-      value: The preview of the Ampersand theme
+      value: Blogs that are phenomenal.
     - name: 'twitter:image'
       value: /_static/app-assets/images/1.jpg
       relativeUrl: true
