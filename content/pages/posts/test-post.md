@@ -4,7 +4,7 @@ subtitle: This is a new blog
 date: '2021-06-14'
 thumb_img_alt: image
 content_img_alt: image
-excerpt: lorem-ipsum
+excerpt: Test Blog
 seo:
   title: ''
   description: ''
