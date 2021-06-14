@@ -13,7 +13,7 @@ intro_actions:
 has_more_link: true
 more_link_text: Read more
 seo:
-  title: Stackbit Ampersand Theme
+  title: Coder Ali Blogs
   description: The preview of the Ampersand theme
   extra:
     - name: 'og:type'
