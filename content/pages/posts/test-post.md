@@ -15,9 +15,6 @@ layout: post
 thumb_img_path: /images/My Post.png
 content_img_path: /images/My Post.png
 ---
-## Lorem ipsum
+## This is a test blog
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+You can change this blog
