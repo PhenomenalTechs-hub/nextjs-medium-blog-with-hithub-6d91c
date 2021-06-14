@@ -1,6 +1,6 @@
 ---
 title: Another New Blog
-subtitle: lorem-ipsum
+subtitle: This is an another new blog
 date: '2021-06-14'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
