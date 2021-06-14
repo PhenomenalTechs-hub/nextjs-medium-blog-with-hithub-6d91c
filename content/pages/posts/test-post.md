@@ -2,7 +2,7 @@
 title: Test-Blog
 subtitle: This is a new blog
 date: '2021-06-14'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: image
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
