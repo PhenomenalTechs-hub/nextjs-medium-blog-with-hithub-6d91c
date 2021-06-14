@@ -14,7 +14,7 @@ has_more_link: true
 more_link_text: Read more
 seo:
   title: Coder Ali Blogs
-  description: The preview of the Ampersand theme
+  description: Blogs that are phenomenal
   extra:
     - name: 'og:type'
       value: website
