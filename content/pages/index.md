@@ -2,7 +2,7 @@
 title: Home
 has_intro: true
 intro_content: |
-  Well I am a Developer, Freelancer and a student
+  Well I am a Developer, Freelancer.
 intro_actions:
   - label: Learn More
     url: /about
