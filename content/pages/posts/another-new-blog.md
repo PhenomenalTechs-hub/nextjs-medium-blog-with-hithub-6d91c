@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Another New Blog
 subtitle: lorem-ipsum
 date: '2021-06-14'
 thumb_img_alt: lorem-ipsum
