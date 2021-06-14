@@ -23,7 +23,7 @@ seo:
       value: Coder Ali Blogs
       keyName: property
     - name: 'og:description'
-      value: The preview of the Ampersand theme
+      value: Blogs that are phenomenal.
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/2.jpg
