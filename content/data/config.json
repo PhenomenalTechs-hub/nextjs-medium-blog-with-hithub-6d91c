@@ -59,7 +59,7 @@
                 "label": "Subscribe",
                 "url": "https://www.youtube.com/channel/UC0-rBSZd0-LiGmOySaBgiQQ",
                 "style": "icon",
-                "icon_class": "dev",
+                "icon_class": "youtube",
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
