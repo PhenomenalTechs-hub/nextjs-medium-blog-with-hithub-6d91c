@@ -56,7 +56,7 @@
                 "new_window": true
             },
             {
-                "label": "lorem-ipsumS",
+                "label": "Subscribe",
                 "url": "#",
                 "style": "link",
                 "icon_class": "dev",
