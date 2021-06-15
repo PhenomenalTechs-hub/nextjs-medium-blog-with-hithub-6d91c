@@ -47,6 +47,10 @@ seo:
         Coder Ali Blogs and how we use it .
       keyName: name
       relativeUrl: false
+    - name: 'twitter:card'
+      value: summ
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 img_path: /images/1.jpg
