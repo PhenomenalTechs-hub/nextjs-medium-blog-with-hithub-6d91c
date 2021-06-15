@@ -35,6 +35,10 @@ seo:
       value: /_static/app-assets/images/1.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:title'
+      value: Privacy Policy | Coder Ali Blogs
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 img_path: /images/1.jpg
