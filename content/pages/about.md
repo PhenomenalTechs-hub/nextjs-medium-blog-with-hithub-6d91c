@@ -4,7 +4,7 @@ subtitle: This is a short page about me and my work
 img_path: images/about.jpg
 img_alt: A man standing on a rock outside the cave
 seo:
-  title: About Us
+  title: About Me
   description: This is the about me page
   extra:
     - name: 'og:type'
