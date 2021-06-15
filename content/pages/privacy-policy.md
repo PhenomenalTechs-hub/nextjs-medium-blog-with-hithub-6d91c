@@ -10,11 +10,7 @@ seo:
     contains types of information that is collected and recorded by Coder Ali
     Blogs and how we use it .
   robots: []
-  extra:
-    - name: 'og:image'
-      value: Privacy Policy | Coder Ali Blogs
-      keyName: property
-      relativeUrl: true
+  extra: []
   type: stackbit_page_meta
 layout: page
 img_path: /images/1.jpg
