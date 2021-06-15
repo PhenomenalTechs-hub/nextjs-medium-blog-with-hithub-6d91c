@@ -39,6 +39,14 @@ seo:
       value: Privacy Policy | Coder Ali Blogs
       keyName: name
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        At Coder Ali Blogs, accessible from https://coderali.tech/, one of our
+        main priorities is the privacy of our visitors. This Privacy Policy
+        document contains types of information that is collected and recorded by
+        Coder Ali Blogs and how we use it .
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 img_path: /images/1.jpg
