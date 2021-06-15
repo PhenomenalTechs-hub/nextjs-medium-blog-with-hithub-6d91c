@@ -59,7 +59,7 @@
             },
             {
                 "label": "DMCA",
-                "url": "#",
+                "url": "https://coderali.tech/dmca",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
