@@ -25,6 +25,15 @@
                 "style": "link"
             },
             {
+                "label": "Privacy Policy",
+                "url": "https://coderali.tech/privacy-policy/",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Follow Me",
                 "style": "icon",
                 "icon_class": "instagram",
