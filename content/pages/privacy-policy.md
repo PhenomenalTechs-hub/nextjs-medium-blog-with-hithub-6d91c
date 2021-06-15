@@ -27,6 +27,10 @@ seo:
         Coder Ali Blogs and how we use it .
       keyName: property
       relativeUrl: false
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 img_path: /images/1.jpg
