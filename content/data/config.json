@@ -25,6 +25,15 @@
                 "style": "link"
             },
             {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Follow Me",
                 "style": "icon",
                 "icon_class": "instagram",
@@ -38,15 +47,6 @@
                 "url": "https://www.youtube.com/channel/UC0-rBSZd0-LiGmOySaBgiQQ",
                 "style": "icon",
                 "icon_class": "youtube",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
