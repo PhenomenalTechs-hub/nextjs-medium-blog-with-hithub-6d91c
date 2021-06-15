@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 subtitle: Privacy Policy for Coder Ali Blogs
-img_alt: lorem-ipsum
+img_alt: image-featured
 seo:
   title: ''
   description: ''
@@ -9,6 +9,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
+img_path: /images/1.jpg
 ---
 At Coder Ali Blogs, accessible from <https://coderali.tech/>, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Coder Ali Blogs and how we use it . If you have additional questions or require more information about our Privacy Policy, do not hesitate to Contact through email at **phenomenaltechs6080@gmail.com **
 
