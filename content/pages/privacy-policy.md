@@ -3,7 +3,7 @@ title: Privacy Policy
 subtitle: Privacy Policy for Coder Ali Blogs
 img_alt: image-featured
 seo:
-  title: ''
+  title: Privacy Policy | Coder Ali Blogs
   description: ''
   robots: []
   extra: []
