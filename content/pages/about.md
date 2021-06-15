@@ -14,7 +14,7 @@ seo:
       value: About Me
       keyName: property
     - name: 'og:description'
-      value: This is the about me page
+      value: This is a short page about me and my work
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
