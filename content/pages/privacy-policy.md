@@ -31,6 +31,10 @@ seo:
       value: website
       keyName: property
       relativeUrl: false
+    - name: 'twitter:image'
+      value: /_static/app-assets/images/1.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 img_path: /images/1.jpg
