@@ -1,6 +1,6 @@
 ---
 title: DMCA
-subtitle: lorem-ipsum
+subtitle: Digital Millennium Copyright Act
 img_alt: lorem-ipsum
 seo:
   title: ''
