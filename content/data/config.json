@@ -59,7 +59,7 @@
         "social_links": [
             {
                 "label": "Privacy Policy",
-                "url": "#",
+                "url": "https://coderali.tech/privacy-policy/",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
