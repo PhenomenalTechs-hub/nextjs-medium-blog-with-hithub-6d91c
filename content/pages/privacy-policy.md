@@ -15,6 +15,10 @@ seo:
       value: /_static/app-assets/images/1.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: Privacy Policy | Coder Ali Blogs
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 img_path: /images/1.jpg
