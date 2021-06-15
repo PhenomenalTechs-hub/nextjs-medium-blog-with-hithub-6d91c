@@ -15,15 +15,6 @@
                 "style": "link"
             },
             {
-                "label": "Follow Me",
-                "style": "icon",
-                "icon_class": "instagram",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action",
-                "url": "https://www.instagram.com/phenomenal_6080/"
-            },
-            {
                 "label": "About",
                 "url": "/about",
                 "style": "link"
@@ -32,6 +23,15 @@
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link"
+            },
+            {
+                "label": "Follow Me",
+                "style": "icon",
+                "icon_class": "instagram",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action",
+                "url": "https://www.instagram.com/phenomenal_6080/"
             }
         ]
     },
