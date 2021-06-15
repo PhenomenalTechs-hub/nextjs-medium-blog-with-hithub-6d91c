@@ -3,10 +3,54 @@ title: Privacy Policy
 subtitle: Privacy Policy for Coder Ali Blogs
 img_alt: image-featured
 seo:
-  title: ''
-  description: ''
+  title: Privacy Policy | Coder Ali Blogs
+  description: >-
+    At Coder Ali Blogs, accessible from https://coderali.tech/, one of our main
+    priorities is the privacy of our visitors. This Privacy Policy document
+    contains types of information that is collected and recorded by Coder Ali
+    Blogs and how we use it .
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /_static/app-assets/images/1.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'og:title'
+      value: Privacy Policy | Coder Ali Blogs
+      keyName: property
+      relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        At Coder Ali Blogs, accessible from https://coderali.tech/, one of our
+        main priorities is the privacy of our visitors. This Privacy Policy
+        document contains types of information that is collected and recorded by
+        Coder Ali Blogs and how we use it .
+      keyName: property
+      relativeUrl: false
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
+    - name: 'twitter:image'
+      value: /_static/app-assets/images/1.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:title'
+      value: Privacy Policy | Coder Ali Blogs
+      keyName: name
+      relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        At Coder Ali Blogs, accessible from https://coderali.tech/, one of our
+        main priorities is the privacy of our visitors. This Privacy Policy
+        document contains types of information that is collected and recorded by
+        Coder Ali Blogs and how we use it .
+      keyName: name
+      relativeUrl: false
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 img_path: /images/1.jpg
