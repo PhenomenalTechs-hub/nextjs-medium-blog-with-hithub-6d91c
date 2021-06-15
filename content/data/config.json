@@ -58,13 +58,6 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/phenomenal_6080/",
-                "style": "icon",
-                "icon_class": "instagram",
-                "new_window": true
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "#",
                 "style": "link",
@@ -72,6 +65,13 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/phenomenal_6080/",
+                "style": "icon",
+                "icon_class": "instagram",
+                "new_window": true
             },
             {
                 "label": "Subscribe",
