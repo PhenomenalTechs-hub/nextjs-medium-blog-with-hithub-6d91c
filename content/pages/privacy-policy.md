@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-subtitle: lorem-ipsum
+subtitle: Privacy Policy for Coder Ali Blogs
 img_alt: lorem-ipsum
 seo:
   title: ''
