@@ -58,7 +58,7 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "lorem-ipsum",
+                "label": "Privacy Policy",
                 "url": "#",
                 "style": "link",
                 "icon_class": "dev",
