@@ -4,7 +4,11 @@ subtitle: Privacy Policy for Coder Ali Blogs
 img_alt: image-featured
 seo:
   title: Privacy Policy | Coder Ali Blogs
-  description: ''
+  description: >-
+    At Coder Ali Blogs, accessible from https://coderali.tech/, one of our main
+    priorities is the privacy of our visitors. This Privacy Policy document
+    contains types of information that is collected and recorded by Coder Ali
+    Blogs and how we use it .
   robots: []
   extra: []
   type: stackbit_page_meta
