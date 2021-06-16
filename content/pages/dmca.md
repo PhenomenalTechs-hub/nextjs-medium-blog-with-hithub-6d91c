@@ -3,7 +3,7 @@ title: DMCA
 subtitle: Digital Millennium Copyright Act
 img_alt: lorem-ipsum
 seo:
-  title: ''
+  title: DMCA | Coder Ali Blogs
   description: ''
   robots: []
   extra: []
